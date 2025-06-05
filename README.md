@@ -1,9 +1,9 @@
 
 ![image](https://github.com/user-attachments/assets/56478c49-beb2-4f3d-935a-5d01da8485f8)
 
-Title: Prevalence of food insecurity amid COVID-19 lockdowns and sociodemographic indicators of household vulnerability in Harar and Kersa, Ethiopia
+Title: Household hardships and responses to COVID-19 pandemic-related shocks in Eastern Ethiopia
 
-Journal: BMC Nutrition
+Journal: BMC Public Health
 
 DOI: https://doi.org/10.1186/s12889-023-16982-0
 
